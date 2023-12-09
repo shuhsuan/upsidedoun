@@ -1,0 +1,7 @@
+{
+  "name": "upsidedoun",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
