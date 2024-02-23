@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.galaxies.upsidedoun',
+  appId: 'com.example.upsidedoun',
   appName: 'upsidedoun',
   webDir: 'dist',
   server: {
